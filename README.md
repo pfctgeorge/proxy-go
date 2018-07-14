@@ -10,9 +10,9 @@
    
    1）windows（64位）：https://github.com/pfctgeorge/proxy-go/raw/master/bin/proxy-win64.exe
    
-   2）macOS（64位）：https://github.com/pfctgeorge/proxy-go/blob/master/bin/proxy-osx
+   2）macOS（64位）：https://github.com/pfctgeorge/proxy-go/raw/master/bin/proxy-osx
    
-   3）Linux（64位）：https://github.com/pfctgeorge/proxy-go/blob/master/bin/proxy-linux
+   3）Linux（64位）：https://github.com/pfctgeorge/proxy-go/raw/master/bin/proxy-linux
 
 2、下载完成后启动服务。
 
